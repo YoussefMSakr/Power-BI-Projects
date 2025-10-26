@@ -1,5 +1,5 @@
 # Power-BI-Projects
-#CIB Sales & Performance Dashboard
+## CIB Sales & Performance Dashboard
 
 ##Overview
 This project demonstrates an **end-to-end Business Intelligence and Analytics solution** using SQL and Power BI.  
