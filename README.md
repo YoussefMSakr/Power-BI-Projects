@@ -1,13 +1,13 @@
 # Power-BI-Projects
 ## CIB Sales & Performance Dashboard
 
-##Overview
+# Overview
 This project demonstrates an **end-to-end Business Intelligence and Analytics solution** using SQL and Power BI.  
 It focuses on **sales and customer performance** for the period **2010–2014**, providing interactive dashboards and advanced KPI insights.
 
 ---
 
-Project Components
+## Project Components
 1. **SQL Data Model** – Fact & Dimension tables built for sales analytics.  
    - Fact Table: `fact_InternetSales`  
    - Dimensions: `dim_Product`, `dim_Customer`, `dim_SalesTerritory`, `dim_Currency`, `Calendar_Date`
