@@ -1,7 +1,7 @@
- Power-BI-Projects
- CIB Sales & Performance Dashboard
+# Power-BI-Projects
+#CIB Sales & Performance Dashboard
 
- Overview
+##Overview
 This project demonstrates an **end-to-end Business Intelligence and Analytics solution** using SQL and Power BI.  
 It focuses on **sales and customer performance** for the period **2010–2014**, providing interactive dashboards and advanced KPI insights.
 
@@ -48,7 +48,6 @@ Project Components
 | File | Description |
 |------|--------------|
 | `Cib Project.pbix` | Power BI dashboard file |
-| `SQL Advanced Analytics Project.sql` | SQL scripts for data preparation and KPI analysis |
 | `Landing page.png` | Dashboard introduction page |
 | `KPIs.png` / `KPIs (2).png` | Key metrics visualization |
 | `Customer Analysis.png` / `Customer 1.png` | Customer insights and segmentation views |
